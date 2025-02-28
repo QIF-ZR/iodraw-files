@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nr_Q7T0Dfo8066CcM6w_-83" value="检测转子位置和电机电流反馈给系统板" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="471.5" y="354" width="385.5" height="51.5" as="geometry" />
+          <mxGeometry x="477" y="354" width="95.5" height="51.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
