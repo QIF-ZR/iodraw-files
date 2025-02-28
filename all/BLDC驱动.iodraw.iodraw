@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="427" dy="177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
           <mxGeometry x="351" y="278" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Nr_Q7T0Dfo8066CcM6w_-76" value="由FD6288T控制的三相MOSFET全桥，用于驱动BLDC电机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="209" y="368" width="142" height="17" as="geometry" />
+          <mxGeometry x="209" y="346" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Nr_Q7T0Dfo8066CcM6w_-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.466;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Nr_Q7T0Dfo8066CcM6w_-63" target="Nr_Q7T0Dfo8066CcM6w_-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
