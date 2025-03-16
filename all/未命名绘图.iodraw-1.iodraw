@@ -19,7 +19,7 @@
         <mxCell id="EpY6e1F_1fZNXnO1Ie1s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpY6e1F_1fZNXnO1Ie1s-4" target="EpY6e1F_1fZNXnO1Ie1s-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-4" value="位置速度检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-4" value="换相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EpY6e1F_1fZNXnO1Ie1s-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpY6e1F_1fZNXnO1Ie1s-5" target="EpY6e1F_1fZNXnO1Ie1s-4">
