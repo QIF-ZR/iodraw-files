@@ -55,7 +55,7 @@
         <mxCell id="EpY6e1F_1fZNXnO1Ie1s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpY6e1F_1fZNXnO1Ie1s-16" target="EpY6e1F_1fZNXnO1Ie1s-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-16" value="速度检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
