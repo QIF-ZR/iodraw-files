@@ -16,7 +16,7 @@
         <mxCell id="EpY6e1F_1fZNXnO1Ie1s-4" value="位置速度检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-5" value="STM32F103ZET6单片机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpY6e1F_1fZNXnO1Ie1s-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;STM32F103ZET6单片机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
